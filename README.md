@@ -1,5 +1,6 @@
 # Hunter-s-Season
 "Hunter's Season" is a simple remember type game with beautiful visual view and interface.  
+                                                           ![](https://s8.hostingkartinok.com/uploads/images/2017/05/9115f26f8abb875301ca1d5328de541d.png)
 ## Game description ##
 All easy, just remember and guess place of icons. Play and enjoy!  
 Game screenshot:
